@@ -11,7 +11,7 @@ scipy
 pandas
 scikit-learn
 torch
-torchnlp
+pytorch-nlp
 allennlp
 spacy
 sparqlwrapper
