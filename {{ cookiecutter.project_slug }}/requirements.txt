@@ -5,3 +5,14 @@ jupyter
 notebook
 Sphinx
 flake8
+tqdm
+numpy
+scipy
+pandas
+scikit-learn
+torch
+torchnlp
+allennlp
+spacy
+sparqlwrapper
+mecab-python3
